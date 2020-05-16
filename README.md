@@ -42,32 +42,33 @@ Neste sricpt foi utilizado uma biblioteca open-source brasileira muito bacana:
 
 1. Utilizando um terminal, vá para a pasta que deseja copiar o projeto:
 
-```shell
-cd minha/pasta/ 
+
+```console
+$ cd minha/pasta/ 
 ```
 
 2. Copie este projeto para seu repositório local:
 
-```shell
-git clone https://github.com/Mat-Bit/covid-joinville-painel.git
+```console
+$ git clone https://github.com/Mat-Bit/covid-joinville-painel.git
 ```
 
 3. Acesse seu repositório local:
 
-```shell
-cd covid-joinville-painel/
+```console
+$ cd covid-joinville-painel/
 ```
 
 4. Com o interpretador Python configurado, execute a instalação das bibliotecas:
 
-```shell
-pip install -r requirements.txt
+```console
+$ pip install -r requirements.txt
 ```
 
 6. Por fim, execute o script:
 
-```shell
-python web_scraper.py
+```console
+$ python web_scraper.py
 ```
 
 
