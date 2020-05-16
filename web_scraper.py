@@ -43,13 +43,13 @@ for row in table:
 
         if count % 12 == 0:
             date = row.get_text().split(" ")[0].split("/")
-            hour = row.get_text().split(" ")[1].split(":")
 
-            date_hour = date[2] + date[1] + date[0] + hour[0] + hour[1]
-            day['data_hora'] = date_hour
+            date_iso = date[2] + '-' + date[1] + '-' + date[0]
+            day['data_iso'] = date_iso
 
             day['data'] = row.get_text().split(" ")[0]
             day['hora'] = row.get_text().split(" ")[1]
+            
         elif count % 12 == 1:
             day['recuperados'] = int(info)
         elif count % 12 == 2:
@@ -85,10 +85,9 @@ table = tables[1].find_all('td')
 for row in table:
     if count % 7 == 0:
         date = row.get_text().split(" ")[0].split("/")
-        hour = row.get_text().split(" ")[1].split(":")
 
-        date_hour = date[2] + date[1] + date[0] + hour[0] + hour[1]
-        day['data_hora'] = date_hour
+        date_iso = date[2] + '-' + date[1] + '-' + date[0]
+        day['data_iso'] = date_iso
 
         day['data'] = row.get_text().split(" ")[0]
         day['hora'] = row.get_text().split(" ")[1]
