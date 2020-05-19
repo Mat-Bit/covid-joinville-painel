@@ -2,8 +2,12 @@
 
 Painel dos casos de COVID-19 em Joinville/SC e script para obter os dados estruturados.
 
-**Fonte:** [Site Prefeitura de Joinville](https://www.joinville.sc.gov.br/publicacoes/dados-casos-coronavirus-municipio-de-joinville/)
+**Fontes:** 
+* [Site Prefeitura de Joinville](https://www.joinville.sc.gov.br/publicacoes/dados-casos-coronavirus-municipio-de-joinville/);
+* [Brasil.IO - Dataset COVID-19](https://brasil.io/covid19/) (**Acompanhe e colabore se puder com esse projeto incrível :star: :pray:**);
 
+
+## Tópicos
 
 - [Visualizar o Painel Interativo](#visualizar-o-painel-interativo)
 - [Obter arquivo CSV](#obter-arquivo-csv)
