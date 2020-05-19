@@ -2,7 +2,7 @@
 
 Painel dos casos de COVID-19 em Joinville/SC e script para obter os dados estruturados.
 
-**Fontes:** 
+**Fontes:**
 * [Site Prefeitura de Joinville](https://www.joinville.sc.gov.br/publicacoes/dados-casos-coronavirus-municipio-de-joinville/);
 * [Brasil.IO - Dataset COVID-19](https://brasil.io/covid19/) (**Acompanhe e colabore se puder com esse projeto incrível :star: :pray:**);
 
@@ -39,9 +39,9 @@ O script é um arquivo Python, caso ainda não tenha instalado em sua máquina, 
 
 Neste sricpt foi utilizado uma biblioteca open-source brasileira muito bacana:
 
-**[rows](https://github.com/turicas/rows)** 
+**[rows](https://github.com/turicas/rows)**
 
-(Obrigado [Turicas](https://github.com/turicas) !)
+(Obrigado [Turicas](https://github.com/turicas) :clap:)
 
 #### Passos
 
@@ -49,7 +49,7 @@ Neste sricpt foi utilizado uma biblioteca open-source brasileira muito bacana:
 
 
 ```console
-$ cd minha/pasta/ 
+$ cd minha/pasta/
 ```
 
 2. Copie este projeto para seu repositório local:
