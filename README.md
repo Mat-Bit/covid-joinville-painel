@@ -13,7 +13,8 @@ Painel dos casos de COVID-19 em Joinville/SC e script para obter os dados estrut
 
 ## Visualizar o Painel Interativo
 
-Para visualizar um painel interativo sobre os casos de COVID-19 clique no link abaixo: 
+Para visualizar um painel interativo sobre os casos de COVID-19 clique no link abaixo:
+
 **[Acessar o Painel](https://datastudio.google.com/s/rxtWEbmtvec)**
 
 
