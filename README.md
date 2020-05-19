@@ -20,7 +20,7 @@ Para visualizar um painel interativo sobre os casos de COVID-19 clique no link a
 
 ## Obter arquivo CSV
 
-Para obter o arquivo CSV dos dados atualizados diariamente **[clique aqui](https://drive.google.com/open?id=1Ok3982frtseLW8izQpfvl6ZkzLtj4bpN)**
+Para obter o arquivo CSV dos dados atualizados diariamente **[clique aqui](https://drive.google.com/file/d/1p-9E4D2rPSfiEmZZ62QTo-TZBiME1Xpl/view?usp=sharing)**
 
 
 ## Baixar e executar o script que gera o arquivo CSV
