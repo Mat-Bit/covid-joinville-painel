@@ -161,6 +161,12 @@ rows_dados['taxa_conf_obito'] = taxa_obito
 rows_dados['obito_por_100k'] = obito_100k
 
 
+#%% Exportando os dados das cidades brasileiras para .CSV e .XLSX
+rows.export_to_csv(rows_brasil, "covid_brasil.csv") 
+
+rows.export_to_xlsx(rows_brasil, "covid_brasil.xlsx")
+
+
 #%% Criando rows.Table e exportando para .CSV e .XLSX
 rows.export_to_csv(rows_dados, "covid_joinville.csv")
 
